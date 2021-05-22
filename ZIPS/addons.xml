@@ -1,6 +1,4 @@
 <addons>
-
-
 <addon id="repository.emad" name="EMAD Repository" version="6.5.0" provider-name="EMAD MAHDI">
 	<extension point="xbmc.addon.repository" name="EMAD Repository">
 	</extension>
@@ -10,6 +8,4 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-
-
 </addons>
